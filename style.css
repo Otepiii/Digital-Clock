@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Orbitron');
+
+body {
+    background: url("https://image.freepik.com/free-vector/vector-set-icons-time-management-business_2065-724.jpg");
+}
+
+.box {
+    margin-left: 270px;
+}
+
+.row {
+    background: black;
+    color: white;
+    position: absolute;
+    top: 83px;
+    left: 730px;
+    width: 86px;
+    height: 40px;
+    font-size: 28px;
+
+}
+
+.jumbotron {
+    background: #cccccc;
+    margin-top: 1px;
+    margin-top: 100px;
+    width: 600px;
+    margin-left: 192px;
+    height: 247px;
+}
+
+
+.clock {
+    background: white;
+    color: black;
+    position: absolute;
+    font-size: 76px;
+    width: 529px;
+    height: 116px;
+    padding-bottom: 40px;
+    text-align: center;
+    font-family:  'Orbitron', sans-serif;
+}
